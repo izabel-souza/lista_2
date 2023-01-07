@@ -1,4 +1,4 @@
-EXERCICIOS 
+EXERCISES
 <p>ex1: Tell if the integer given by user is a prime or composite number.</p>
 <p>ex2: Calculate and print the sum of N natural odd numbers.</p>
 <p>ex3: Print N firsts numbers of fibonacci's sequence.</p>
